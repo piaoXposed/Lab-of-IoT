@@ -1,5 +1,5 @@
 # Lab-of-IoT
-哈工大物联网程序设计实践课程满分代码。HIT Course of IoT Programming Practice.
+哈工大物联网程序设计实践课程满分代码。HIT Course: IoT Programming Practice.
 
 包括：
 1. Calculate
