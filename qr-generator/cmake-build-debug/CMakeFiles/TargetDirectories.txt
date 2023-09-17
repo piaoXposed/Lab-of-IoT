@@ -1,0 +1,16 @@
+D:/qr-generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/qr-generator/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+D:/qr-generator/cmake-build-debug/libs/qr-code/CMakeFiles/qr-code.dir
+D:/qr-generator/cmake-build-debug/libs/qr-code/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/libs/qr-code/CMakeFiles/rebuild_cache.dir
+D:/qr-generator/cmake-build-debug/libs/code-to-png/CMakeFiles/code-to-png.dir
+D:/qr-generator/cmake-build-debug/libs/code-to-png/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/libs/code-to-png/CMakeFiles/rebuild_cache.dir
+D:/qr-generator/cmake-build-debug/libs/png-merge/CMakeFiles/png-merge.dir
+D:/qr-generator/cmake-build-debug/libs/png-merge/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/libs/png-merge/CMakeFiles/rebuild_cache.dir
+D:/qr-generator/cmake-build-debug/src/CMakeFiles/qr-to-png.dir
+D:/qr-generator/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/qr-generator/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
